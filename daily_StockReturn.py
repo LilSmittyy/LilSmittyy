@@ -1,4 +1,4 @@
-#Stock Return Project
+#Daily Stock Return Project
 #Dylan Smith
 #Dec 27th 2022
 
